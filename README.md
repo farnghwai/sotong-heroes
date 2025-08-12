@@ -6,6 +6,12 @@ An interactive educational conservation game designed to teach primary school st
 
 "Save the Sotong Heroes" is a mission-based identification game where players become "Sotong Protectors" learning to identify different squid species to help save them from various environmental threats. Through engaging gameplay, children learn about marine biodiversity and conservation actions they can take in their daily lives.
 
+## How to create the Game using Claude Artifact
+- Navigate to https://claude.ai/artifacts
+- Click **New artifact**
+- Follow instruction
+- [Original Chat](sotong-heroes-chat.jpeg)
+
 ## 🌟 Features
 
 ### Educational Gameplay
