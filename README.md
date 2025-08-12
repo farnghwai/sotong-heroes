@@ -10,7 +10,7 @@ An interactive educational conservation game designed to teach primary school st
 - Navigate to https://claude.ai/artifacts
 - Click **New artifact**
 - Follow instruction
-- [Original Chat](sotong-heroes-chat.jpeg)
+- ![Original Chat](sotong-heroes-chat.jpeg)
 
 ## 🌟 Features
 
